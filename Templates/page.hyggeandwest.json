@@ -1,0 +1,1080 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "zegsu-header-bar": {
+      "type": "apps",
+      "disabled": true,
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "skinnydipped_bg_section_BGUGne": {
+      "type": "skinnydipped-bg-section",
+      "blocks": {
+        "box_qw9aJ7": {
+          "type": "box",
+          "settings": {
+            "box_bg": "#353535",
+            "opacity": 100,
+            "box_width": "400px",
+            "align_content": "0px 0px 0px auto",
+            "box_padding": "50px 40px",
+            "mobail_box_width": "100%",
+            "mobail_align_content": "0px auto",
+            "mobail_box_padding": "50px 30px"
+          }
+        },
+        "image_PcJAia": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/472241699419063450-3adf117d-9bae-41f7-bd5f-e4b270cb84e0.webp",
+            "width": "100%",
+            "margin_bottom": 10,
+            "mwidth": "80%",
+            "mmargin_bottom": 10,
+            "aspect_ratio": "",
+            "object_fit": "fill",
+            "border_px": "px",
+            "border_radius": 0
+          }
+        },
+        "title_dy8rBw": {
+          "type": "title",
+          "settings": {
+            "title": "Revitalize Your Home this Fall",
+            "textcolor": "#ffffff",
+            "text_align": "center",
+            "width": 100,
+            "align_content": "0px auto",
+            "font_size": 40,
+            "line_height": 48,
+            "font_weight": "700",
+            "margin_bottom": 0,
+            "mobail_text_align": "center",
+            "mobail_width": 80,
+            "mobail_align_content": "0px auto",
+            "mobail_font_size": 22,
+            "mobail_line_height": 30,
+            "mobail_margin_bottom": 20
+          }
+        },
+        "richtext_6AXfLd": {
+          "type": "richtext",
+          "settings": {
+            "text": "<p>Bring New Life to Your Space with Striking Wallpapers<\/p>",
+            "textcolor": "#ffffff",
+            "text_align": "center",
+            "width": 100,
+            "align_content": "0px auto 0px 0px",
+            "font_size": 22,
+            "line_height": 32,
+            "font_weight": "400",
+            "margin_bottom": 25,
+            "mobail_text_align": "center",
+            "mobail_width": 100,
+            "mobail_align_content": "0px auto 0px 0px",
+            "mobail_font_size": 16,
+            "mobail_line_height": 24,
+            "mobail_margin_bottom": 20
+          }
+        },
+        "button_cgfwC9": {
+          "type": "button",
+          "settings": {
+            "btnlink": "#",
+            "btntext": "Decorate Now",
+            "text_align": "center",
+            "padding": "12px 24px",
+            "font_size": 18,
+            "font_weight": "500",
+            "border_width": 1,
+            "border_radius": 3,
+            "margin_bottom": 0,
+            "mobail_text_align": "center",
+            "mobail_padding": "10px 30px",
+            "mobaile_font_size": 17,
+            "mobail_margin_bottom": 0,
+            "text_color": "#ffffff",
+            "btn_color": "#b49459",
+            "border_color": "#b49459",
+            "text_color_hover": "#ffffff",
+            "btn_color_hover": "#6b706d",
+            "border_color_hover": "#6b706d"
+          }
+        }
+      },
+      "block_order": [
+        "box_qw9aJ7",
+        "image_PcJAia",
+        "title_dy8rBw",
+        "richtext_6AXfLd",
+        "button_cgfwC9"
+      ],
+      "settings": {
+        "container": "container",
+        "bgimg": "shopify:\/\/shop_images\/472241699419063450-d2f934aa-0b85-4984-91e0-f196ba6394c1.gif",
+        "bgcolor": "",
+        "laptop_top": 130,
+        "laptop_bottom": 130,
+        "mobail_top": 64,
+        "mobail_bottom": 64,
+        "border_width": "0",
+        "border_color": "#d9d9d9"
+      }
+    },
+    "hyggeandwest_lago_text_wBUGpY": {
+      "type": "hyggeandwest-lago-text",
+      "blocks": {
+        "text_La7LyJ": {
+          "type": "text",
+          "settings": {
+            "text": "Covered by",
+            "text_color": "#000000",
+            "text_font": 24,
+            "mobail_text_font": 24
+          }
+        },
+        "logo_NejMX9": {
+          "type": "logo",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/472241699419063450-c9edd23d-830e-4308-96c8-84fcb4bd355d.svg",
+            "img_height": 35
+          }
+        },
+        "logo_HXLAcN": {
+          "type": "logo",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/472241699419063450-962d00f7-a379-4ea5-b55a-ce2207bd62e2.svg",
+            "img_height": 35
+          }
+        },
+        "logo_TwMdFV": {
+          "type": "logo",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/472241699419063450-345e7005-ed0c-4a27-b3fe-6fe4f7217955.svg",
+            "img_height": 35
+          }
+        },
+        "logo_cmc7bW": {
+          "type": "logo",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/472241699419063450-bbb3ca62-310b-48bc-a4b4-e07515023558.svg",
+            "img_height": 35
+          }
+        },
+        "logo_4cw7WP": {
+          "type": "logo",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/472241699419063450-aec0bfac-34eb-4510-b097-b490c3304639.svg",
+            "img_height": 35
+          }
+        }
+      },
+      "block_order": [
+        "text_La7LyJ",
+        "logo_NejMX9",
+        "logo_HXLAcN",
+        "logo_TwMdFV",
+        "logo_cmc7bW",
+        "logo_4cw7WP"
+      ],
+      "settings": {
+        "container": "container",
+        "bgcolor": "#efecec",
+        "laptop_top": 20,
+        "laptop_bottom": 20,
+        "mobail_top": 30,
+        "mobail_bottom": 30
+      }
+    },
+    "hyggeandwest_icon_box_fWGQpw": {
+      "type": "hyggeandwest-icon-box",
+      "blocks": {
+        "title_LzEXJH": {
+          "type": "title",
+          "settings": {
+            "title": "Rediscover Your Space with Stunning Wallpaper Choices",
+            "textcolor": "#ffffff",
+            "text_align": "center",
+            "width": 75,
+            "align_content": "0px auto",
+            "font_size": 48,
+            "line_height": 54,
+            "font_weight": "700",
+            "margin_bottom": 15,
+            "mobail_text_align": "center",
+            "mobail_width": 100,
+            "mobail_align_content": "0px auto 0px 0px",
+            "mobail_font_size": 28,
+            "mobail_line_height": 32,
+            "mobail_margin_bottom": 15
+          }
+        },
+        "richtext_RWwkJP": {
+          "type": "richtext",
+          "settings": {
+            "text": "<p>Give your space a luscious, crafted feel <\/p><p><strong>FREE Shipping Today<\/strong><\/p>",
+            "textcolor": "#ffffff",
+            "text_align": "center",
+            "width": 100,
+            "align_content": "0px auto 0px 0px",
+            "font_size": 20,
+            "line_height": 28,
+            "font_weight": "400",
+            "margin_bottom": 20,
+            "mobail_text_align": "center",
+            "mobail_width": 100,
+            "mobail_align_content": "0px auto 0px 0px",
+            "mobail_font_size": 14,
+            "mobail_line_height": 24,
+            "mobail_margin_bottom": 30
+          }
+        },
+        "image_box_bdVbqf": {
+          "type": "image_box",
+          "settings": {
+            "box_width": "800px",
+            "mobail_bottom": 30,
+            "box_gap": 30,
+            "box_show": 3,
+            "text_align": "center",
+            "width": "100%",
+            "aspect_ratio": "1\/1",
+            "object_fit": "contain",
+            "border_width": 0,
+            "border_px": "px",
+            "border_radius": 0,
+            "margin_bottom": 10,
+            "title_font_size": 18,
+            "title_line_height": 22,
+            "title_font_weight": "600",
+            "title_margin_bottom": 0,
+            "text_font_size": 15,
+            "text_line_height": 21,
+            "text_font_weight": "300",
+            "mobail_mobail_bottom": 30,
+            "mobail_box_gap": 30,
+            "mobail_width": "",
+            "mobail_aspect_ratio": "",
+            "mobail_object_fit": "fill",
+            "mobail_margin_bottom": 10,
+            "mobail_title_font_size": 18,
+            "mobail_title_line_height": 22,
+            "mobail_title_margin_bottom": 0,
+            "mobail_text_font_size": 15,
+            "mobail_text_line_height": 21,
+            "text_color": "#ffffff",
+            "des_color": "#000000",
+            "border_color": "#000000"
+          }
+        },
+        "image_box_list_HYq83y": {
+          "type": "image_box_list",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/472241699419063450-9ef4669d-62b0-45ca-9355-ac59076fa0ff.webp",
+            "text": "Long-lasting Quality",
+            "des": ""
+          }
+        },
+        "image_box_list_K4J68j": {
+          "type": "image_box_list",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/472241699419063450-3c2629c1-5933-46e2-af35-317107b87c12.webp",
+            "text": "Artisan Designed",
+            "des": ""
+          }
+        },
+        "image_box_list_wNY9Ge": {
+          "type": "image_box_list",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/472241699419063450-bdd078c3-88a5-4c16-be82-a853766e9f77.webp",
+            "text": "Stunning Patterns",
+            "des": ""
+          }
+        },
+        "button_4mKwYw": {
+          "type": "button",
+          "settings": {
+            "btnlink": "#",
+            "btntext": "Buy Now",
+            "text_align": "center",
+            "padding": "12px 24px",
+            "font_size": 18,
+            "font_weight": "500",
+            "border_width": 1,
+            "border_radius": 3,
+            "border_style": "solid",
+            "margin_bottom": 0,
+            "mobail_text_align": "center",
+            "mobail_padding": "10px 30px",
+            "mobaile_font_size": 17,
+            "mobail_margin_bottom": 0,
+            "text_color": "#ffffff",
+            "btn_color": "#b49459",
+            "border_color": "#b49459",
+            "btn_text_hover": "#ffffff",
+            "btn_color_hover": "#6b706d",
+            "border_color_hover": "#6b706d"
+          }
+        }
+      },
+      "block_order": [
+        "title_LzEXJH",
+        "richtext_RWwkJP",
+        "image_box_bdVbqf",
+        "image_box_list_HYq83y",
+        "image_box_list_K4J68j",
+        "image_box_list_wNY9Ge",
+        "button_4mKwYw"
+      ],
+      "settings": {
+        "container": "container",
+        "bgcolor": "#009e7d",
+        "laptop_top": 60,
+        "laptop_bottom": 60,
+        "mobail_top": 64,
+        "mobail_bottom": 64
+      }
+    },
+    "skinnydipped_icon_box_6ja9L6": {
+      "type": "skinnydipped-icon-box",
+      "blocks": {
+        "iconbox_L3Rq6V": {
+          "type": "iconbox",
+          "settings": {
+            "text_align": "center",
+            "mtext_align": "center",
+            "icon_id": "shopify:\/\/shop_images\/472241699419063450-2822b6c1-3e24-4df4-8e8d-5b7f2391bb36.svg",
+            "title": "Patterns Keep Bright",
+            "text": "Our wallpapers are crafted to maintain their original allure, ensuring your space remains as stunning as the day you fell in love with it."
+          }
+        },
+        "iconbox_EU3YME": {
+          "type": "iconbox",
+          "settings": {
+            "text_align": "center",
+            "mtext_align": "center",
+            "icon_id": "shopify:\/\/shop_images\/472241699419063450-bd8e1cb5-ab3a-4c43-ae5e-b9351f1b368d.gif",
+            "title": "Lives Up to Wear and Tear",
+            "text": "Whether you have a bustling household or simply want peace of mind, our durable materials ensure your walls stay looking great."
+          }
+        },
+        "iconbox_cYjNXc": {
+          "type": "iconbox",
+          "settings": {
+            "text_align": "center",
+            "mtext_align": "center",
+            "icon_id": "shopify:\/\/shop_images\/472241699419063450-08ccaa00-27c4-4a32-b369-59da2e82e822.webp",
+            "title": "A Look for Any Taste",
+            "text": "With our diverse collection, you can effortlessly find the perfect pattern to express your individual taste and enhance your space."
+          }
+        },
+        "iconbox_3rCcjX": {
+          "type": "iconbox",
+          "settings": {
+            "text_align": "center",
+            "mtext_align": "center",
+            "icon_id": "shopify:\/\/shop_images\/472241699419063450-640d33db-f569-4379-99a3-4d75d0298cd1.svg",
+            "title": "Easy to Install",
+            "text": "Transform your space by yourself with simple tools and without a mess."
+          }
+        }
+      },
+      "block_order": [
+        "iconbox_L3Rq6V",
+        "iconbox_EU3YME",
+        "iconbox_cYjNXc",
+        "iconbox_3rCcjX"
+      ],
+      "settings": {
+        "container": "container-full",
+        "bgimg": "shopify:\/\/shop_images\/472241699419063450-eda83858-5403-431a-a648-a4c51cbeaff7.webp",
+        "bgcolor": "",
+        "laptop_top": 80,
+        "laptop_bottom": 80,
+        "box_show": 4,
+        "box_gap": 5,
+        "box_padding": 20,
+        "icon_width": "",
+        "icon_height": "50px",
+        "aspect_ratio": "1\/1",
+        "object_fit": "contain",
+        "icon_margin": 30,
+        "title_font_size": 20,
+        "title_line_height": 26,
+        "title_font_weight": "600",
+        "title_margin_bottom": 10,
+        "text_font_size": 16,
+        "text_line_height": 21,
+        "text_font_weight": "400",
+        "text_margin_bottom": 0,
+        "mobail_top": 50,
+        "mobail_bottom": 50,
+        "mobail_box_gap": 0,
+        "mobail_box_padding": 20,
+        "mobaile_icon_width": "",
+        "mobail_icon_height": "",
+        "mobail_icon_margin": 20,
+        "mobaile_title_font_size": 18,
+        "mobaile_title_line_height": 24,
+        "mobaile_title_margin_bottom": 15,
+        "mobaile_text_font_size": 14,
+        "mobail_text_line_height": 20,
+        "mobail_text_margin_bottom": 15,
+        "title_color": "#ffffff",
+        "text_color": "#ffffff",
+        "box_color": "#009e7d"
+      }
+    },
+    "funko_instagram_azBYHG": {
+      "type": "funko-instagram",
+      "blocks": {
+        "title_LP3inF": {
+          "type": "title",
+          "settings": {
+            "title": "Become One of Our Thousands of Delighted Customers Who Adore Their Cozy Homes",
+            "textcolor": "#009e7d",
+            "text_align": "center",
+            "width": 100,
+            "align_content": "0px auto 0px 0px",
+            "font_size": 48,
+            "line_height": 54,
+            "font_weight": "800",
+            "margin_bottom": 60,
+            "mobail_text_align": "center",
+            "mobail_width": 100,
+            "mobail_align_content": "0px auto 0px 0px",
+            "mobail_font_size": 28,
+            "mobail_line_height": 34,
+            "mobail_margin_bottom": 30
+          }
+        },
+        "instagram_7hetgL": {
+          "type": "instagram",
+          "settings": {
+            "embed": "<blockquote class=\"instagram-media\" data-instgrm-permalink=\"https:\/\/www.instagram.com\/reel\/Cw2jaPnACIr\/?utm_source=ig_embed&utm_campaign=loading\" data-instgrm-version=\"14\" style=\" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);\"><div style=\"padding:16px;\"> <a href=\"https:\/\/www.instagram.com\/reel\/Cw2jaPnACIr\/?utm_source=ig_embed&utm_campaign=loading\" style=\" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;\" target=\"_blank\"> <div style=\" display: flex; flex-direction: row; align-items: center;\"> <div style=\"background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;\"><\/div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;\"><\/div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;\"><\/div>\n<\/div>\n<\/div>\n<div style=\"padding: 19% 0;\"><\/div> <div style=\"display:block; height:50px; margin:0 auto 12px; width:50px;\"><svg width=\"50px\" height=\"50px\" viewbox=\"0 0 60 60\" version=\"1.1\" xmlns=\"https:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"https:\/\/www.w3.org\/1999\/xlink\"><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g transform=\"translate(-511.000000, -20.000000)\" fill=\"#000000\"><g><path d=\"M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631\"><\/path><\/g><\/g><\/g><\/svg><\/div>\n<div style=\"padding-top: 8px;\"> <div style=\" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;\">View this post on Instagram<\/div>\n<\/div>\n<div style=\"padding: 12.5% 0;\"><\/div> <div style=\"display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;\">\n<div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);\"><\/div> <div style=\"background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;\"><\/div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);\"><\/div>\n<\/div>\n<div style=\"margin-left: 8px;\"> <div style=\" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;\"><\/div> <div style=\" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)\"><\/div>\n<\/div>\n<div style=\"margin-left: auto;\"> <div style=\" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);\"><\/div> <div style=\" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);\"><\/div> <div style=\" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);\"><\/div>\n<\/div>\n<\/div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;\"><\/div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;\"><\/div>\n<\/div><\/a><p style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;\"><a href=\"https:\/\/www.instagram.com\/reel\/Cw2jaPnACIr\/?utm_source=ig_embed&utm_campaign=loading\" style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;\" target=\"_blank\">A post shared by Katie Bowling | home design + DIY (@katiebowlinghome)<\/a><\/p>\n<\/div><\/blockquote> <script async src=\"\/\/www.instagram.com\/embed.js\"><\/script>"
+          }
+        },
+        "instagram_Gh88dX": {
+          "type": "instagram",
+          "settings": {
+            "embed": "<blockquote class=\"instagram-media\" data-instgrm-permalink=\"https:\/\/www.instagram.com\/reel\/CwxkOGHLh_4\/?utm_source=ig_embed&utm_campaign=loading\" data-instgrm-version=\"14\" style=\" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);\"><div style=\"padding:16px;\"> <a href=\"https:\/\/www.instagram.com\/reel\/CwxkOGHLh_4\/?utm_source=ig_embed&utm_campaign=loading\" style=\" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;\" target=\"_blank\"> <div style=\" display: flex; flex-direction: row; align-items: center;\"> <div style=\"background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;\"><\/div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;\"><\/div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;\"><\/div>\n<\/div>\n<\/div>\n<div style=\"padding: 19% 0;\"><\/div> <div style=\"display:block; height:50px; margin:0 auto 12px; width:50px;\"><svg width=\"50px\" height=\"50px\" viewbox=\"0 0 60 60\" version=\"1.1\" xmlns=\"https:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"https:\/\/www.w3.org\/1999\/xlink\"><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g transform=\"translate(-511.000000, -20.000000)\" fill=\"#000000\"><g><path d=\"M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631\"><\/path><\/g><\/g><\/g><\/svg><\/div>\n<div style=\"padding-top: 8px;\"> <div style=\" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;\">View this post on Instagram<\/div>\n<\/div>\n<div style=\"padding: 12.5% 0;\"><\/div> <div style=\"display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;\">\n<div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);\"><\/div> <div style=\"background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;\"><\/div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);\"><\/div>\n<\/div>\n<div style=\"margin-left: 8px;\"> <div style=\" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;\"><\/div> <div style=\" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)\"><\/div>\n<\/div>\n<div style=\"margin-left: auto;\"> <div style=\" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);\"><\/div> <div style=\" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);\"><\/div> <div style=\" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);\"><\/div>\n<\/div>\n<\/div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;\"><\/div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;\"><\/div>\n<\/div><\/a><p style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;\"><a href=\"https:\/\/www.instagram.com\/reel\/CwxkOGHLh_4\/?utm_source=ig_embed&utm_campaign=loading\" style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;\" target=\"_blank\">A post shared by Caroline Parker (@mummysflippinhouse)<\/a><\/p>\n<\/div><\/blockquote> <script async src=\"\/\/www.instagram.com\/embed.js\"><\/script>"
+          }
+        },
+        "instagram_eLc69T": {
+          "type": "instagram",
+          "settings": {
+            "embed": "<blockquote class=\"instagram-media\" data-instgrm-permalink=\"https:\/\/www.instagram.com\/reel\/CwxcIRZLLw1\/?utm_source=ig_embed&utm_campaign=loading\" data-instgrm-version=\"14\" style=\" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);\"><div style=\"padding:16px;\"> <a href=\"https:\/\/www.instagram.com\/reel\/CwxcIRZLLw1\/?utm_source=ig_embed&utm_campaign=loading\" style=\" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;\" target=\"_blank\"> <div style=\" display: flex; flex-direction: row; align-items: center;\"> <div style=\"background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;\"><\/div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;\"><\/div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;\"><\/div>\n<\/div>\n<\/div>\n<div style=\"padding: 19% 0;\"><\/div> <div style=\"display:block; height:50px; margin:0 auto 12px; width:50px;\"><svg width=\"50px\" height=\"50px\" viewbox=\"0 0 60 60\" version=\"1.1\" xmlns=\"https:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"https:\/\/www.w3.org\/1999\/xlink\"><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g transform=\"translate(-511.000000, -20.000000)\" fill=\"#000000\"><g><path d=\"M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631\"><\/path><\/g><\/g><\/g><\/svg><\/div>\n<div style=\"padding-top: 8px;\"> <div style=\" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;\">View this post on Instagram<\/div>\n<\/div>\n<div style=\"padding: 12.5% 0;\"><\/div> <div style=\"display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;\">\n<div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);\"><\/div> <div style=\"background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;\"><\/div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);\"><\/div>\n<\/div>\n<div style=\"margin-left: 8px;\"> <div style=\" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;\"><\/div> <div style=\" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)\"><\/div>\n<\/div>\n<div style=\"margin-left: auto;\"> <div style=\" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);\"><\/div> <div style=\" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);\"><\/div> <div style=\" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);\"><\/div>\n<\/div>\n<\/div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;\"><\/div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;\"><\/div>\n<\/div><\/a><p style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;\"><a href=\"https:\/\/www.instagram.com\/reel\/CwxcIRZLLw1\/?utm_source=ig_embed&utm_campaign=loading\" style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;\" target=\"_blank\">A post shared by Jessica Blue Interiors LLC (@jblueinteriors)<\/a><\/p>\n<\/div><\/blockquote> <script async src=\"\/\/www.instagram.com\/embed.js\"><\/script>"
+          }
+        },
+        "button_ikWfbA": {
+          "type": "button",
+          "settings": {
+            "btnlink": "#",
+            "btntext": "Find Your Style",
+            "text_align": "center",
+            "padding": "12px 24px",
+            "font_size": 18,
+            "font_weight": "500",
+            "border_width": 1,
+            "border_radius": 3,
+            "border_style": "solid",
+            "margin_bottom": 0,
+            "mobail_text_align": "center",
+            "mobail_padding": "10px 30px",
+            "mobaile_font_size": 17,
+            "mobail_margin_bottom": 0,
+            "text_color": "#ffffff",
+            "btn_color": "#b49459",
+            "border_color": "#b49459",
+            "btn_text_hover": "#ffffff",
+            "btn_color_hover": "#6b706d",
+            "border_color_hover": "#6b706d"
+          }
+        }
+      },
+      "block_order": [
+        "title_LP3inF",
+        "instagram_7hetgL",
+        "instagram_Gh88dX",
+        "instagram_eLc69T",
+        "button_ikWfbA"
+      ],
+      "settings": {
+        "container": "container",
+        "bgcolor": "#ffffff",
+        "laptop_top": 80,
+        "laptop_bottom": 80,
+        "box_gap": 15,
+        "mobail_top": 50,
+        "mobail_bottom": 50,
+        "mobail_box_gap": 15
+      }
+    },
+    "hyggeandwest_icon_box_rYJyYh": {
+      "type": "hyggeandwest-icon-box",
+      "blocks": {
+        "title_yRFGAG": {
+          "type": "title",
+          "settings": {
+            "title": "Proven Way to Transform Your Home",
+            "textcolor": "#ffffff",
+            "text_align": "center",
+            "width": 100,
+            "align_content": "0px auto 0px 0px",
+            "font_size": 48,
+            "line_height": 54,
+            "font_weight": "700",
+            "margin_bottom": 10,
+            "mobail_text_align": "center",
+            "mobail_width": 100,
+            "mobail_align_content": "0px auto 0px 0px",
+            "mobail_font_size": 24,
+            "mobail_line_height": 32,
+            "mobail_margin_bottom": 10
+          }
+        },
+        "richtext_mBc93R": {
+          "type": "richtext",
+          "settings": {
+            "text": "<p>1000's of ways to make your space more you<\/p>",
+            "textcolor": "#ffffff",
+            "text_align": "center",
+            "width": 100,
+            "align_content": "0px auto 0px 0px",
+            "font_size": 20,
+            "line_height": 28,
+            "font_weight": "500",
+            "margin_bottom": 40,
+            "mobail_text_align": "center",
+            "mobail_width": 88,
+            "mobail_align_content": "0px auto",
+            "mobail_font_size": 16,
+            "mobail_line_height": 24,
+            "mobail_margin_bottom": 20
+          }
+        },
+        "image_box_weU9KV": {
+          "type": "image_box",
+          "settings": {
+            "box_width": "700px",
+            "mobail_bottom": 40,
+            "box_gap": 14,
+            "box_show": 3,
+            "text_align": "center",
+            "width": "",
+            "aspect_ratio": "",
+            "object_fit": "fill",
+            "border_width": 0,
+            "border_px": "px",
+            "border_radius": 0,
+            "margin_bottom": 0,
+            "title_font_size": 45,
+            "title_line_height": 50,
+            "title_font_weight": "700",
+            "title_margin_bottom": 5,
+            "text_font_size": 22,
+            "text_line_height": 30,
+            "text_font_weight": "300",
+            "mobail_mobail_bottom": 30,
+            "mobail_box_gap": 25,
+            "mobail_width": "",
+            "mobail_aspect_ratio": "",
+            "mobail_object_fit": "fill",
+            "mobail_margin_bottom": 0,
+            "mobail_title_font_size": 32,
+            "mobail_title_line_height": 40,
+            "mobail_title_margin_bottom": 0,
+            "mobail_text_font_size": 20,
+            "mobail_text_line_height": 26,
+            "text_color": "#ffffff",
+            "des_color": "#ffffff",
+            "border_color": "#000000"
+          }
+        },
+        "image_box_list_VfVz4m": {
+          "type": "image_box_list",
+          "settings": {
+            "text": "100,000+",
+            "des": "Customers"
+          }
+        },
+        "image_box_list_pNr8nw": {
+          "type": "image_box_list",
+          "settings": {
+            "text": "1500",
+            "des": "Style"
+          }
+        },
+        "image_box_list_kqRtz6": {
+          "type": "image_box_list",
+          "settings": {
+            "text": "85",
+            "des": "Artisans"
+          }
+        },
+        "button_DtQgDz": {
+          "type": "button",
+          "settings": {
+            "btnlink": "#",
+            "btntext": "Buy Now",
+            "text_align": "center",
+            "padding": "12px 24px",
+            "font_size": 18,
+            "font_weight": "500",
+            "border_width": 1,
+            "border_radius": 3,
+            "border_style": "solid",
+            "margin_bottom": 0,
+            "mobail_text_align": "center",
+            "mobail_padding": "10px 30px",
+            "mobaile_font_size": 17,
+            "mobail_margin_bottom": 0,
+            "text_color": "#ffffff",
+            "btn_color": "#b49459",
+            "border_color": "#b49459",
+            "btn_text_hover": "#ffffff",
+            "btn_color_hover": "#6b706d",
+            "border_color_hover": "#6b706d"
+          }
+        }
+      },
+      "block_order": [
+        "title_yRFGAG",
+        "richtext_mBc93R",
+        "image_box_weU9KV",
+        "image_box_list_VfVz4m",
+        "image_box_list_pNr8nw",
+        "image_box_list_kqRtz6",
+        "button_DtQgDz"
+      ],
+      "settings": {
+        "container": "container",
+        "bgcolor": "#009e7d",
+        "laptop_top": 80,
+        "laptop_bottom": 80,
+        "mobail_top": 50,
+        "mobail_bottom": 50
+      }
+    },
+    "hyggeandwest_icon_box_CdWgjL": {
+      "type": "hyggeandwest-icon-box",
+      "blocks": {
+        "title_zzm8Ub": {
+          "type": "title",
+          "settings": {
+            "title": "Unleash the Power of Pattern",
+            "textcolor": "#009e7d",
+            "text_align": "center",
+            "width": 100,
+            "align_content": "0px auto 0px 0px",
+            "font_size": 48,
+            "line_height": 54,
+            "font_weight": "700",
+            "margin_bottom": 10,
+            "mobail_text_align": "center",
+            "mobail_width": 100,
+            "mobail_align_content": "0px auto 0px 0px",
+            "mobail_font_size": 28,
+            "mobail_line_height": 32,
+            "mobail_margin_bottom": 10
+          }
+        },
+        "richtext_ePe8Fa": {
+          "type": "richtext",
+          "settings": {
+            "text": "<p>Creating the Atmosphere the Helps You Thrive<\/p>",
+            "textcolor": "#000000",
+            "text_align": "center",
+            "width": 100,
+            "align_content": "0px auto 0px 0px",
+            "font_size": 20,
+            "line_height": 29,
+            "font_weight": "400",
+            "margin_bottom": 40,
+            "mobail_text_align": "center",
+            "mobail_width": 100,
+            "mobail_align_content": "0px auto",
+            "mobail_font_size": 16,
+            "mobail_line_height": 24,
+            "mobail_margin_bottom": 30
+          }
+        },
+        "image_box_yVfyUT": {
+          "type": "image_box",
+          "settings": {
+            "box_width": "",
+            "mobail_bottom": 0,
+            "box_gap": 30,
+            "box_show": 4,
+            "text_align": "center",
+            "width": "100%",
+            "aspect_ratio": "1\/1",
+            "object_fit": "cover",
+            "border_width": 1,
+            "border_px": "px",
+            "border_radius": 8,
+            "margin_bottom": 15,
+            "title_font_size": 18,
+            "title_line_height": 22,
+            "title_font_weight": "700",
+            "title_margin_bottom": 10,
+            "text_font_size": 15,
+            "text_line_height": 21,
+            "text_font_weight": "300",
+            "mobail_mobail_bottom": 0,
+            "mobail_box_gap": 40,
+            "mobail_width": "",
+            "mobail_aspect_ratio": "",
+            "mobail_object_fit": "fill",
+            "mobail_margin_bottom": 15,
+            "mobail_title_font_size": 18,
+            "mobail_title_line_height": 22,
+            "mobail_title_margin_bottom": 10,
+            "mobail_text_font_size": 15,
+            "mobail_text_line_height": 21,
+            "text_color": "#000000",
+            "des_color": "#000000",
+            "border_color": "#000000"
+          }
+        },
+        "image_box_list_wCRKLA": {
+          "type": "image_box_list",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/472241699419063450-4147bde1-3916-49e5-8710-85d6d3b9701f.webp",
+            "text": "Bring a Sense of Order ",
+            "des": "Create a modern, sophisticated atmosphere that reflects your appreciation for balance and structure. Elevate your décor with the power of geometry."
+          }
+        },
+        "image_box_list_Mwgenm": {
+          "type": "image_box_list",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/472241699419063450-29220a04-ff5d-49b6-9fd6-ab20ddb7f4df.webp",
+            "text": "Energize Your Space",
+            "des": "Transform any room into a captivating haven of self-expression. Discover the joy of vibrant living with our bold and daring wallpaper choices."
+          }
+        },
+        "image_box_list_A6Fe8G": {
+          "type": "image_box_list",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/472241699419063450-8ec8bfe7-bce9-4b54-b035-079f803bda0d.webp",
+            "text": "Add Whimsy to Your Life",
+            "des": "Imaginative designs create a sense of wonder and charm in any room. Infuse your living spaces with the magic of whimsy, making each day a little more enchanting."
+          }
+        },
+        "image_box_list_N9i97t": {
+          "type": "image_box_list",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/472241699419063450-2599681d-358e-42f9-ac0e-dea8cd981424.webp",
+            "text": "Enjoy Nature Inside",
+            "des": "Transform your living spaces into tranquil retreats by bringing the soothing and rejuvenating effects of nature into the comfort of your home."
+          }
+        }
+      },
+      "block_order": [
+        "title_zzm8Ub",
+        "richtext_ePe8Fa",
+        "image_box_yVfyUT",
+        "image_box_list_wCRKLA",
+        "image_box_list_Mwgenm",
+        "image_box_list_A6Fe8G",
+        "image_box_list_N9i97t"
+      ],
+      "settings": {
+        "container": "container",
+        "bgcolor": "#ffffff",
+        "laptop_top": 80,
+        "laptop_bottom": 80,
+        "mobail_top": 50,
+        "mobail_bottom": 50
+      }
+    },
+    "hyggeandwest_tab_section_HM9RQd": {
+      "type": "hyggeandwest-tab-section",
+      "blocks": {
+        "title_RcLmtp": {
+          "type": "title",
+          "settings": {
+            "title": "As Charming as You",
+            "textcolor": "#121212",
+            "text_align": "center",
+            "width": 100,
+            "align_content": "0px auto 0px 0px",
+            "font_size": 48,
+            "line_height": 54,
+            "font_weight": "800",
+            "margin_bottom": 20,
+            "mobail_text_align": "center",
+            "mobail_width": 100,
+            "mobail_align_content": "0px auto 0px 0px",
+            "mobail_font_size": 28,
+            "mobail_line_height": 34,
+            "mobail_margin_bottom": 8
+          }
+        },
+        "richtext_LWkx7w": {
+          "type": "richtext",
+          "settings": {
+            "text": "<p> Harness Your Creative Potential with Hygge & West Wallpaper <br\/><\/p>",
+            "textcolor": "#000000",
+            "text_align": "center",
+            "width": 100,
+            "align_content": "0px auto 0px 0px",
+            "font_size": 20,
+            "line_height": 29,
+            "font_weight": "400",
+            "margin_bottom": 40,
+            "mobail_text_align": "center",
+            "mobail_width": 100,
+            "mobail_align_content": "0px auto 0px 0px",
+            "mobail_font_size": 16,
+            "mobail_line_height": 24,
+            "mobail_margin_bottom": 20
+          }
+        },
+        "teb_section_UYKWFa": {
+          "type": "teb_section",
+          "settings": {
+            "box_width": "850px",
+            "active_color": "#b49459",
+            "bg_color": "#009e7d",
+            "text_color": "#ffffff",
+            "des_color": "#000000"
+          }
+        },
+        "teb_list_nYfHkK": {
+          "type": "teb_list",
+          "settings": {
+            "active_teb": true,
+            "name": "Abide",
+            "des": "Unlike mass-produced options, our wallpapers are unique and crafted with passion. Let your walls tell your story.",
+            "img": "shopify:\/\/shop_images\/image4.png",
+            "img1": "shopify:\/\/shop_images\/image4-4.png",
+            "text1": "Crashing Cars",
+            "img2": "shopify:\/\/shop_images\/image4-3.png",
+            "text2": "Swirling Drama",
+            "img3": "shopify:\/\/shop_images\/image4-1.png",
+            "text3": "Bowling Animals",
+            "img4": "shopify:\/\/shop_images\/image4-2.png",
+            "text4": "Jewels"
+          }
+        },
+        "teb_list_CA8FV9": {
+          "type": "teb_list",
+          "settings": {
+            "active_teb": false,
+            "name": "London Town",
+            "des": "Elevate your interior design with the versatility and charm that patterns bring to your home.",
+            "img": "shopify:\/\/shop_images\/image2.png",
+            "img1": "shopify:\/\/shop_images\/image2-4.jpg",
+            "text1": "Double Deckers & Beefeaters",
+            "img2": "shopify:\/\/shop_images\/image2-1.png",
+            "text2": "The Eye",
+            "img3": "shopify:\/\/shop_images\/image2-2.jpg",
+            "text3": "Tower Bridge",
+            "img4": "shopify:\/\/shop_images\/image2-3.png",
+            "text4": "Big Ben"
+          }
+        },
+        "teb_list_z3aJk7": {
+          "type": "teb_list",
+          "settings": {
+            "active_teb": false,
+            "name": "Space Owl",
+            "des": "Smoky, yet bright, reposado-style with inviting aromas, unique flavors, and a delightfully tingling finish, or as we like to call it: a clean burn.",
+            "img": "shopify:\/\/shop_images\/image3.png",
+            "img1": "shopify:\/\/shop_images\/image3-4.png",
+            "text1": "Soaring Owls",
+            "img2": "shopify:\/\/shop_images\/image3-3.jpg",
+            "text2": "Howling Wolves",
+            "img3": "shopify:\/\/shop_images\/image3-1.png",
+            "text3": "Frolicking Deer",
+            "img4": "shopify:\/\/shop_images\/image3-2.png",
+            "text4": "Happy Turtles"
+          }
+        },
+        "teb_list_qA4kbt": {
+          "type": "teb_list",
+          "settings": {
+            "active_teb": false,
+            "name": "Cheetah's Garden",
+            "des": "Smoky, yet bright, reposado-style with inviting aromas, unique flavors, and a delightfully tingling finish, or as we like to call it: a clean burn.",
+            "img": "shopify:\/\/shop_images\/image.png",
+            "img1": "shopify:\/\/shop_images\/image-2.png",
+            "text1": "Cheetah's at Play",
+            "img2": "shopify:\/\/shop_images\/image-1.png",
+            "text2": "Fairies and Gators",
+            "img3": "shopify:\/\/shop_images\/image-4.png",
+            "text3": "Scorpion at Wait",
+            "img4": "shopify:\/\/shop_images\/image-3.png",
+            "text4": "Birds Having Lunch"
+          }
+        }
+      },
+      "block_order": [
+        "title_RcLmtp",
+        "richtext_LWkx7w",
+        "teb_section_UYKWFa",
+        "teb_list_nYfHkK",
+        "teb_list_CA8FV9",
+        "teb_list_z3aJk7",
+        "teb_list_qA4kbt"
+      ],
+      "settings": {
+        "container": "container",
+        "bgcolor": "#d7e4e1",
+        "laptop_top": 80,
+        "laptop_bottom": 80,
+        "mobail_top": 50,
+        "mobail_bottom": 50
+      }
+    },
+    "funko_instagram_ReQRWL": {
+      "type": "funko-instagram",
+      "blocks": {
+        "title_EHchTb": {
+          "type": "title",
+          "settings": {
+            "title": "Join 1,000's of Satisfied Customers Who Love Their Cozy, Wallpapered Spaces",
+            "textcolor": "#009e7d",
+            "text_align": "center",
+            "width": 85,
+            "align_content": "0px auto",
+            "font_size": 48,
+            "line_height": 54,
+            "font_weight": "700",
+            "margin_bottom": 40,
+            "mobail_text_align": "center",
+            "mobail_width": 100,
+            "mobail_align_content": "0px auto",
+            "mobail_font_size": 22,
+            "mobail_line_height": 30,
+            "mobail_margin_bottom": 30
+          }
+        },
+        "instagram_M97ReC": {
+          "type": "instagram",
+          "settings": {
+            "embed": "<blockquote class=\"instagram-media\" data-instgrm-permalink=\"https:\/\/www.instagram.com\/reel\/CwsQJJNrHYm\/?utm_source=ig_embed&utm_campaign=loading\" data-instgrm-version=\"14\" style=\" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);\"><div style=\"padding:16px;\"> <a href=\"https:\/\/www.instagram.com\/reel\/CwsQJJNrHYm\/?utm_source=ig_embed&utm_campaign=loading\" style=\" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;\" target=\"_blank\"> <div style=\" display: flex; flex-direction: row; align-items: center;\"> <div style=\"background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;\"><\/div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;\"><\/div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;\"><\/div>\n<\/div>\n<\/div>\n<div style=\"padding: 19% 0;\"><\/div> <div style=\"display:block; height:50px; margin:0 auto 12px; width:50px;\"><svg width=\"50px\" height=\"50px\" viewbox=\"0 0 60 60\" version=\"1.1\" xmlns=\"https:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"https:\/\/www.w3.org\/1999\/xlink\"><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g transform=\"translate(-511.000000, -20.000000)\" fill=\"#000000\"><g><path d=\"M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631\"><\/path><\/g><\/g><\/g><\/svg><\/div>\n<div style=\"padding-top: 8px;\"> <div style=\" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;\">View this post on Instagram<\/div>\n<\/div>\n<div style=\"padding: 12.5% 0;\"><\/div> <div style=\"display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;\">\n<div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);\"><\/div> <div style=\"background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;\"><\/div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);\"><\/div>\n<\/div>\n<div style=\"margin-left: 8px;\"> <div style=\" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;\"><\/div> <div style=\" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)\"><\/div>\n<\/div>\n<div style=\"margin-left: auto;\"> <div style=\" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);\"><\/div> <div style=\" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);\"><\/div> <div style=\" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);\"><\/div>\n<\/div>\n<\/div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;\"><\/div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;\"><\/div>\n<\/div><\/a><p style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;\"><a href=\"https:\/\/www.instagram.com\/reel\/CwsQJJNrHYm\/?utm_source=ig_embed&utm_campaign=loading\" style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;\" target=\"_blank\">A post shared by Samantha S. Pappas Design (@samanthaspappas)<\/a><\/p>\n<\/div><\/blockquote> <script async src=\"\/\/www.instagram.com\/embed.js\"><\/script>"
+          }
+        },
+        "instagram_fUEDVc": {
+          "type": "instagram",
+          "settings": {
+            "embed": "<blockquote class=\"instagram-media\" data-instgrm-permalink=\"https:\/\/www.instagram.com\/reel\/CwaWBh9OAbJ\/?utm_source=ig_embed&utm_campaign=loading\" data-instgrm-version=\"14\" style=\" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);\"><div style=\"padding:16px;\"> <a href=\"https:\/\/www.instagram.com\/reel\/CwaWBh9OAbJ\/?utm_source=ig_embed&utm_campaign=loading\" style=\" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;\" target=\"_blank\"> <div style=\" display: flex; flex-direction: row; align-items: center;\"> <div style=\"background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;\"><\/div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;\"><\/div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;\"><\/div>\n<\/div>\n<\/div>\n<div style=\"padding: 19% 0;\"><\/div> <div style=\"display:block; height:50px; margin:0 auto 12px; width:50px;\"><svg width=\"50px\" height=\"50px\" viewbox=\"0 0 60 60\" version=\"1.1\" xmlns=\"https:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"https:\/\/www.w3.org\/1999\/xlink\"><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g transform=\"translate(-511.000000, -20.000000)\" fill=\"#000000\"><g><path d=\"M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631\"><\/path><\/g><\/g><\/g><\/svg><\/div>\n<div style=\"padding-top: 8px;\"> <div style=\" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;\">View this post on Instagram<\/div>\n<\/div>\n<div style=\"padding: 12.5% 0;\"><\/div> <div style=\"display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;\">\n<div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);\"><\/div> <div style=\"background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;\"><\/div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);\"><\/div>\n<\/div>\n<div style=\"margin-left: 8px;\"> <div style=\" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;\"><\/div> <div style=\" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)\"><\/div>\n<\/div>\n<div style=\"margin-left: auto;\"> <div style=\" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);\"><\/div> <div style=\" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);\"><\/div> <div style=\" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);\"><\/div>\n<\/div>\n<\/div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;\"><\/div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;\"><\/div>\n<\/div><\/a><p style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;\"><a href=\"https:\/\/www.instagram.com\/reel\/CwaWBh9OAbJ\/?utm_source=ig_embed&utm_campaign=loading\" style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;\" target=\"_blank\">A post shared by Heather (@heatherfoxdesign)<\/a><\/p>\n<\/div><\/blockquote> <script async src=\"\/\/www.instagram.com\/embed.js\"><\/script>"
+          }
+        },
+        "instagram_U9rFby": {
+          "type": "instagram",
+          "settings": {
+            "embed": "<blockquote class=\"instagram-media\" data-instgrm-permalink=\"https:\/\/www.instagram.com\/reel\/Cwm8lS1haYy\/?utm_source=ig_embed&utm_campaign=loading\" data-instgrm-version=\"14\" style=\" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);\"><div style=\"padding:16px;\"> <a href=\"https:\/\/www.instagram.com\/reel\/Cwm8lS1haYy\/?utm_source=ig_embed&utm_campaign=loading\" style=\" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;\" target=\"_blank\"> <div style=\" display: flex; flex-direction: row; align-items: center;\"> <div style=\"background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;\"><\/div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;\"><\/div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;\"><\/div>\n<\/div>\n<\/div>\n<div style=\"padding: 19% 0;\"><\/div> <div style=\"display:block; height:50px; margin:0 auto 12px; width:50px;\"><svg width=\"50px\" height=\"50px\" viewbox=\"0 0 60 60\" version=\"1.1\" xmlns=\"https:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"https:\/\/www.w3.org\/1999\/xlink\"><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g transform=\"translate(-511.000000, -20.000000)\" fill=\"#000000\"><g><path d=\"M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631\"><\/path><\/g><\/g><\/g><\/svg><\/div>\n<div style=\"padding-top: 8px;\"> <div style=\" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;\">View this post on Instagram<\/div>\n<\/div>\n<div style=\"padding: 12.5% 0;\"><\/div> <div style=\"display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;\">\n<div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);\"><\/div> <div style=\"background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;\"><\/div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);\"><\/div>\n<\/div>\n<div style=\"margin-left: 8px;\"> <div style=\" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;\"><\/div> <div style=\" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)\"><\/div>\n<\/div>\n<div style=\"margin-left: auto;\"> <div style=\" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);\"><\/div> <div style=\" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);\"><\/div> <div style=\" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);\"><\/div>\n<\/div>\n<\/div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;\"><\/div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;\"><\/div>\n<\/div><\/a><p style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;\"><a href=\"https:\/\/www.instagram.com\/reel\/Cwm8lS1haYy\/?utm_source=ig_embed&utm_campaign=loading\" style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;\" target=\"_blank\">A post shared by G O E S L I N G G R O U P (@goeslinggroup)<\/a><\/p>\n<\/div><\/blockquote> <script async src=\"\/\/www.instagram.com\/embed.js\"><\/script>"
+          }
+        },
+        "button_XpbLDC": {
+          "type": "button",
+          "settings": {
+            "btnlink": "#",
+            "btntext": "Update Your Space",
+            "text_align": "center",
+            "padding": "12px 24px",
+            "font_size": 18,
+            "font_weight": "500",
+            "border_width": 1,
+            "border_radius": 3,
+            "border_style": "solid",
+            "margin_bottom": 0,
+            "mobail_text_align": "center",
+            "mobail_padding": "10px 30px",
+            "mobaile_font_size": 17,
+            "mobail_margin_bottom": 0,
+            "text_color": "#ffffff",
+            "btn_color": "#b49459",
+            "border_color": "#b49459",
+            "btn_text_hover": "#ffffff",
+            "btn_color_hover": "#6b706d",
+            "border_color_hover": "#6b706d"
+          }
+        }
+      },
+      "block_order": [
+        "title_EHchTb",
+        "instagram_M97ReC",
+        "instagram_fUEDVc",
+        "instagram_U9rFby",
+        "button_XpbLDC"
+      ],
+      "settings": {
+        "container": "container",
+        "bgcolor": "#ffffff",
+        "laptop_top": 80,
+        "laptop_bottom": 80,
+        "box_gap": 15,
+        "mobail_top": 50,
+        "mobail_bottom": 50,
+        "mobail_box_gap": 15
+      }
+    },
+    "shopc_section_8MR7Dg": {
+      "type": "shopc-section",
+      "blocks": {
+        "image_qbHapp": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/472241699419063450-3adf117d-9bae-41f7-bd5f-e4b270cb84e0.webp",
+            "width": "350px",
+            "margin_bottom": 0,
+            "mwidth": "200px",
+            "mmargin_bottom": 0,
+            "aspect_ratio": "",
+            "object_fit": "fill",
+            "border_px": "px",
+            "border_radius": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_qbHapp"
+      ],
+      "settings": {
+        "bgcolor": "#009e7d",
+        "laptop_top": 50,
+        "laptop_bottom": 50,
+        "mobail_top": 50,
+        "mobail_bottom": 50,
+        "border_width": "0",
+        "border_color": "#d9d9d9",
+        "border_style": "solid"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "zegsu-header-bar",
+    "skinnydipped_bg_section_BGUGne",
+    "hyggeandwest_lago_text_wBUGpY",
+    "hyggeandwest_icon_box_fWGQpw",
+    "skinnydipped_icon_box_6ja9L6",
+    "funko_instagram_azBYHG",
+    "hyggeandwest_icon_box_rYJyYh",
+    "hyggeandwest_icon_box_CdWgjL",
+    "hyggeandwest_tab_section_HM9RQd",
+    "funko_instagram_ReQRWL",
+    "shopc_section_8MR7Dg"
+  ]
+}
